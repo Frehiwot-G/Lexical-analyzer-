@@ -1,0 +1,79 @@
+this is single line Commments: //this is an input text
+
+This is Keyword: int
+
+This is Identifier: a1
+
+This is Assignment Operator: =
+
+This is Integer: 1
+
+This is Delimiter: ;
+
+This is Keyword: int
+
+This is Identifier: $b
+
+This is Assignment Operator: =
+
+This is Integer: 2
+
+This is Delimiter: ;
+
+This is Keyword: int
+
+This is Identifier: d
+
+This is Assignment Operator: =
+
+This is Fraction : 0.5
+
+This is Special Characters: %
+
+This is Delimiter: ;
+
+This is Keyword: str
+
+This is Identifier: z
+
+This is Assignment Operator: =
+
+this is String:"hello world"
+
+This is Delimiter: ;
+
+This is Keyword:void
+This is Function: add(
+
+This is Delimiter: )
+
+This is Delimiter: {
+
+This is Keyword: int
+
+This is Identifier: c
+
+This is Assignment Operator: =
+
+This is Identifier: a1
+
+This is Arithmatic Operator: +
+
+This is Identifier: $b
+
+This is Delimiter: ;
+
+This is Keyword: return
+
+This is Identifier: c
+
+This is Delimiter: ;
+
+This is Delimiter: }
+
+
+
+
+
+
+ Total Tokens = 37

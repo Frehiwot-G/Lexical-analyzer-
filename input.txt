@@ -1,0 +1,10 @@
+//this is an input text
+
+int a1 = 1;
+int $b = 2;
+int d = 0.5%;
+str z = "hello world";
+void add(){
+int c = a1 + $b;
+return c;
+}
